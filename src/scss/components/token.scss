@@ -159,6 +159,16 @@
     }
 }
 
+@media (min-width: 1921px) {
+
+    .token {
+
+        &__column {
+            padding-left: 140px;
+        }
+    }
+}
+
 @media (max-width: 1099px) {
 
     .token {
